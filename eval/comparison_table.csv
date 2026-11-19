@@ -1,0 +1,12 @@
+Metric,Baseline,Advanced,Improvement (+ = advanced better),Relative improvement %
+Precision@3,0.3333,0.3333,0.0,0.0
+Recall@3,1.0,1.0,0.0,0.0
+MRR,1.0,1.0,0.0,0.0
+Exact Match,0.0,0.3333,0.3333,n/a
+Token F1,0.1075,0.668,0.5605,521.3
+ROUGE-L,0.1075,0.668,0.5605,521.3
+Citation accuracy,1.0,1.0,0.0,0.0
+Avg response time (s),0.0092,1.8241,-1.8149,-19712.0
+Correct 'not found' on unanswerable,0.0,1.0,1.0,n/a
+False 'not found' on answerable,0.0,0.0,0.0,n/a
+Memory added by model (MB),7.1393,33.28,-26.1407,-366.2

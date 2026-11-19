@@ -1,0 +1,12 @@
+question,reference_answer,gold_doc,gold_page,answerable
+What is the minimum attendance required for the end semester examination?,75 percent in each subject,DEMO_synthetic_college_rules.pdf,1,1
+What is the condonation fee for low attendance?,500 rupees,DEMO_synthetic_college_rules.pdf,1,1
+How many marks does the end semester examination carry?,70 marks,DEMO_synthetic_college_rules.pdf,2,1
+What are the pass marks required in a course?,40 percent in the end semester examination and 40 percent in total,DEMO_synthetic_college_rules.pdf,2,1
+Are mobile phones allowed in the examination hall?,No they are strictly prohibited,DEMO_synthetic_college_rules.pdf,2,1
+When does the odd semester begin?,4 August 2025,DEMO_synthetic_college_rules.pdf,3,1
+When does the even semester end examination begin?,4 May 2026,DEMO_synthetic_college_rules.pdf,3,1
+What is the revaluation fee per paper?,800 rupees per paper,DEMO_synthetic_college_rules.pdf,4,1
+Within how many days must one apply for revaluation?,within 7 days of the declaration of results,DEMO_synthetic_college_rules.pdf,4,1
+What is the hostel fee for first year students?,,,,0
+Who is the principal of the college?,,,,0

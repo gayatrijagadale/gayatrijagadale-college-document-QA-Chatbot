@@ -1,0 +1,13 @@
+pypdf
+sentence-transformers
+faiss-cpu
+transformers
+torch
+accelerate
+sentencepiece
+gradio>=4.0
+scikit-learn
+pandas
+numpy
+matplotlib
+psutil

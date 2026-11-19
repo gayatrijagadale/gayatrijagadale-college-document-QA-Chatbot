@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pkl
+*.index
+data/processed/
+eval/results_*.csv
+eval/comparison_table.csv
+eval/threshold_sweep_*.csv
+eval/human_eval_sheet.csv
+eval/figures/
+*.pyc
+data/raw_pdfs/*.pdf
